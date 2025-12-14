@@ -41,6 +41,19 @@ ButtonMaker/
    ```bash
    git clone https://github.com/Pavitra672/ButtonMaker.git
 
+   
+2.Navigate to the project folder:
+
+       cd ButtonMaker
+
+
+3.Open index.html in your browser:
+
+Double-click the file
+OR
+
+Right-click → Open with Browser
+
 
 📸 Preview
 
